@@ -2,8 +2,6 @@
  * Class Section: TT6V & TC1V
  * Trimester 2 2020/21
  * Chan Lin Chee
- * 1191202546
- * 016 357 7219
  */
 
 
@@ -62,7 +60,7 @@ public class JavaIndividualProject extends JFrame implements ActionListener {
         frame.setSize(400,480);
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("1191202546 Chan Lin Chee");
+        frame.setTitle("Chan Lin Chee's individual JAVA assignment");
     }
 
     // constructor without parameter (will be invoked when the object of JavaIndividualProject has been created)
